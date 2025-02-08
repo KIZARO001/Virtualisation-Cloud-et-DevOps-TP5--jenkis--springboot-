@@ -14,7 +14,10 @@ public class UserController {
         return Map.of(
                 "nom", "ASRAOUI",
                 "prenom", "ZAKARIA",
-                "email", "z_asraoui@etu.enset-media.ac.ma"
+                "email", "z_asraoui@etu.enset-media.ac.ma",
+                "Ecole", "ENSET Media",
+                "Change Status","Change passed Seccusfully"
+
         );
     }
 }
